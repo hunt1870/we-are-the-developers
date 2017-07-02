@@ -1,0 +1,55 @@
+body {
+    background: url("img.jpg");
+    background-size: cover;
+    background-position: center; 
+}
+#margin{
+	margin-top:300px;
+}
+.white{
+    color:white;
+    font-weight: 950;
+    font-size:4.38em;
+    line-height: 1.71em;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+}
+a{
+	color:white;
+	font-family: 'Patrick Hand SC', cursive;
+}
+.navbar-brand{
+	font-size: 40px;
+}
+li a{
+	font-size: 25px;
+}
+.navbar-default{
+	background: transparent;
+    border-bottom: none;
+}
+.navbar-default .navbar-brand {
+    color:white;
+}
+.navbar-default .navbar-nav>li>a{
+    color:white;
+}
+.btn{
+    font-size: 17px;
+    border-radius: 0px;
+}
+.btn-default{
+    background: transparent;
+    color:white;
+    margin-left: 10px;
+}
+input{
+    border-radius: 3px;
+    border:1px solid white;
+    width: 30%;
+    height: 40px;
+    font-size: 20px;
+    background: transparent;
+    color: white;
+    padding-left: 10px
+}
